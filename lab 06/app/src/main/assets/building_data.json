@@ -1,0 +1,88 @@
+{
+  "building": {
+    "name": "Patio Simón Bolívar",
+    "description": "Edificación histórica con patios y salones",
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Patio Central",
+        "type": "patio",
+        "vertices": [
+          {"x": 50, "y": 250},
+          {"x": 240, "y": 250},
+          {"x": 240, "y": 550},
+          {"x": 50, "y": 550}
+        ],
+        "center": {"x": 145, "y": 400},
+        "description": "Patio principal de la edificación con arquitectura colonial. Espacio abierto utilizado para eventos y ceremonias.",
+        "area": "120 m²",
+        "capacity": "150 personas",
+        "features": ["Fuente central", "Columnas de mármol", "Jardines laterales"]
+      },
+      {
+        "id": 2,
+        "name": "Salón de Conferencias",
+        "type": "salon",
+        "vertices": [
+          {"x": 50, "y": 50},
+          {"x": 240, "y": 50},
+          {"x": 240, "y": 240},
+          {"x": 50, "y": 240}
+        ],
+        "center": {"x": 145, "y": 145},
+        "description": "Salón principal para conferencias y eventos académicos. Equipado con tecnología audiovisual moderna.",
+        "area": "75 m²",
+        "capacity": "80 personas",
+        "features": ["Proyector", "Sistema de sonido", "Aire acondicionado", "Iluminación LED"]
+      },
+      {
+        "id": 3,
+        "name": "Biblioteca",
+        "type": "salon",
+        "vertices": [
+          {"x": 660, "y": 50},
+          {"x": 850, "y": 50},
+          {"x": 850, "y": 550},
+          {"x": 660, "y": 550}
+        ],
+        "center": {"x": 755, "y": 250},
+        "description": "Biblioteca con colección histórica y moderna. Espacio de estudio silencioso con acceso a recursos digitales.",
+        "area": "87 m²",
+        "capacity": "40 personas",
+        "features": ["Estanterías de roble", "Mesas de estudio", "Computadoras", "WiFi gratuito"]
+      },
+      {
+        "id": 4,
+        "name": "Patio de los Naranjos",
+        "type": "patio",
+        "vertices": [
+          {"x": 50, "y": 560},
+          {"x": 240, "y": 560},
+          {"x": 240, "y": 720},
+          {"x": 50, "y": 720}
+        ],
+        "center": {"x": 145, "y": 640},
+        "description": "Patio secundario con árboles de naranja. Espacio tranquilo para descanso y contemplación.",
+        "area": "90 m²",
+        "capacity": "30 personas",
+        "features": ["Árboles frutales", "Bancos de piedra", "Senderos empedrados"]
+      },
+      {
+        "id": 5,
+        "name": "Salón de Exposiciones",
+        "type": "salon",
+        "vertices": [
+          {"x": 250, "y": 560},
+          {"x": 850, "y": 560},
+          {"x": 850, "y": 720},
+          {"x": 250, "y": 720}
+        ],
+        "center": {"x": 550, "y": 640},
+        "description": "Galería para exposiciones de arte y cultura. Iluminación especializada para obras de arte.",
+        "area": "62 m²",
+        "capacity": "50 personas",
+        "features": ["Iluminación museográfica", "Paredes blancas", "Sistema de seguridad", "Control de humedad"]
+      }
+    ]
+  }
+}
