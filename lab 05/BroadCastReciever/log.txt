@@ -1,0 +1,67 @@
+2025-10-05 21:53:59.990 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:39cbed7b: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+2025-10-05 21:53:59.992 17037-17037 InsetsController        com.example.broadcastreciever        D  show(ime(), fromIme=false)
+2025-10-05 21:53:59.992 17037-17037 InsetsController        com.example.broadcastreciever        D  Setting requestedVisibleTypes to -1 (was -9)
+2025-10-05 21:54:00.004 17037-17037 AssistStructure         com.example.broadcastreciever        I  Flattened final assist data: 1432 bytes, containing 1 windows, 7 views
+2025-10-05 21:54:00.183 17037-17069 InteractionJankMonitor  com.example.broadcastreciever        W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.broadcastreciever
+2025-10-05 21:54:00.407 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:39cbed7b: onShown
+2025-10-05 21:54:01.656 17037-17037 EmisorActivity          com.example.broadcastreciever        D  Mensaje enviado: XZZX
+2025-10-05 21:54:03.794 17037-17037 WindowOnBackDispatcher  com.example.broadcastreciever        W  sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@67bc548
+2025-10-05 21:54:03.811 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:f3580645: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_REQUEST_HIDE_WITH_CONTROL fromUser true
+2025-10-05 21:54:03.813 17037-17037 InsetsController        com.example.broadcastreciever        D  Setting requestedVisibleTypes to -9 (was -1)
+2025-10-05 21:54:03.815 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:03.815 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:f3580645: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:04.064 17037-17037 ImeTracker              com.example.broadcastreciever        I  system_server:c3be9689: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2025-10-05 21:54:05.139 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:05.272 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:05.273 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:ec49c416: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:05.276 17037-17037 RemoteInpu...ectionImpl com.example.broadcastreciever        W  requestCursorUpdates on inactive InputConnection
+2025-10-05 21:54:05.651 17037-17037 VRI[EmisorActivity]     com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
+2025-10-05 21:54:05.666 17037-17037 AutofillManager         com.example.broadcastreciever        I  onInvisibleForAutofill(): expiringResponse
+2025-10-05 21:54:05.668 17037-17037 WindowOnBackDispatcher  com.example.broadcastreciever        W  sendCancelIfRunning: isInProgress=false callback=android.app.Activity$$ExternalSyntheticLambda0@18ff0f7
+2025-10-05 21:54:05.671 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:06.263 17037-17037 ReceptorActivity        com.example.broadcastreciever        D  Registrando broadcast receiver
+2025-10-05 21:54:06.285 17037-17037 ReceptorActivity        com.example.broadcastreciever        D  Receiver registrado con RECEIVER_NOT_EXPORTED
+2025-10-05 21:54:06.467 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:06.467 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:885ff0ea: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:06.832 17037-17037 VRI[MainActivity]       com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
+2025-10-05 21:54:09.985 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:10.065 17037-17037 ReceptorActivity        com.example.broadcastreciever        D  Broadcast receiver desregistrado
+2025-10-05 21:54:10.098 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:10.099 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:682b2c77: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:10.484 17037-17037 VRI[ReceptorActivity]   com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
+2025-10-05 21:54:10.500 17037-17037 WindowOnBackDispatcher  com.example.broadcastreciever        W  sendCancelIfRunning: isInProgress=false callback=android.app.Activity$$ExternalSyntheticLambda0@41a1895
+2025-10-05 21:54:10.501 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:17.549 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:17.550 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:54618247: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:17.912 17037-17037 VRI[MainActivity]       com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
+2025-10-05 21:54:19.941 17037-17037 AutofillManager         com.example.broadcastreciever        I  showAutofillDialog() return false due to improve fill dialog
+2025-10-05 21:54:19.942 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:f48c17f5: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+2025-10-05 21:54:19.943 17037-17037 InsetsController        com.example.broadcastreciever        D  show(ime(), fromIme=false)
+2025-10-05 21:54:19.943 17037-17037 InsetsController        com.example.broadcastreciever        D  Setting requestedVisibleTypes to -1 (was -9)
+2025-10-05 21:54:19.951 17037-17037 AssistStructure         com.example.broadcastreciever        I  Flattened final assist data: 1432 bytes, containing 1 windows, 7 views
+2025-10-05 21:54:20.325 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:f48c17f5: onShown
+2025-10-05 21:54:25.139 17037-17037 EmisorActivity          com.example.broadcastreciever        D  Mensaje enviado: HOLA
+2025-10-05 21:54:28.032 17037-17037 WindowOnBackDispatcher  com.example.broadcastreciever        W  sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@db5761f
+2025-10-05 21:54:28.043 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:2546f848: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_REQUEST_HIDE_WITH_CONTROL fromUser true
+2025-10-05 21:54:28.043 17037-17037 InsetsController        com.example.broadcastreciever        D  Setting requestedVisibleTypes to -9 (was -1)
+2025-10-05 21:54:28.045 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:28.046 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:2546f848: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:28.295 17037-17037 ImeTracker              com.example.broadcastreciever        I  system_server:684d1cc: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2025-10-05 21:54:30.879 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:31.003 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:31.004 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:f5c3d142: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:31.008 17037-17037 RemoteInpu...ectionImpl com.example.broadcastreciever        W  requestCursorUpdates on inactive InputConnection
+2025-10-05 21:54:31.365 17037-17037 VRI[EmisorActivity]     com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
+2025-10-05 21:54:31.381 17037-17037 AutofillManager         com.example.broadcastreciever        I  onInvisibleForAutofill(): expiringResponse
+2025-10-05 21:54:31.381 17037-17037 WindowOnBackDispatcher  com.example.broadcastreciever        W  sendCancelIfRunning: isInProgress=false callback=android.app.Activity$$ExternalSyntheticLambda0@2bf26c2
+2025-10-05 21:54:31.384 17037-17037 ViewRootImpl            com.example.broadcastreciever        D  Skipping stats log for color mode
+2025-10-05 21:54:31.406 17037-17043 oadcastreciever         com.example.broadcastreciever        W  Cleared Reference was only reachable from finalizer (only reported once)
+2025-10-05 21:54:31.423 17037-17045 System                  com.example.broadcastreciever        W  A resource failed to call release. 
+2025-10-05 21:54:31.423 17037-17045 System                  com.example.broadcastreciever        W  A resource failed to call release. 
+2025-10-05 21:54:31.424 17037-17045 System                  com.example.broadcastreciever        W  A resource failed to call release. 
+2025-10-05 21:54:32.162 17037-17037 oadcastreciever         com.example.broadcastreciever        I  AssetManager2(0x708e8c243b78) locale list changing from [] to [en-US]
+2025-10-05 21:54:32.182 17037-17037 ReceptorActivity        com.example.broadcastreciever        D  Registrando broadcast receiver
+2025-10-05 21:54:32.183 17037-17037 ReceptorActivity        com.example.broadcastreciever        D  Receiver registrado con RECEIVER_NOT_EXPORTED
+2025-10-05 21:54:32.350 17037-17037 InsetsController        com.example.broadcastreciever        D  hide(ime(), fromIme=false)
+2025-10-05 21:54:32.350 17037-17037 ImeTracker              com.example.broadcastreciever        I  com.example.broadcastreciever:db866ae8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2025-10-05 21:54:32.713 17037-17037 VRI[MainActivity]       com.example.broadcastreciever        D  visibilityChanged oldVisibility=true newVisibility=false
