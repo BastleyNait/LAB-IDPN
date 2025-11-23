@@ -1,0 +1,8 @@
+1|Catedral de Lima|Iglesia|La Catedral de Lima es un templo católico de la capital del Perú, sede de la Arquidiócesis de Lima. Construcción iniciada en 1535.|building_cathedral
+2|Palacio de Gobierno|Palacio|También conocido como Casa de Pizarro, es la sede del poder ejecutivo peruano y residencia oficial del presidente.|building_palace
+3|Convento de San Francisco|Convento|Conjunto arquitectónico de estilo barroco, famoso por sus catacumbas y biblioteca colonial.|building_convent
+4|Plaza Mayor de Lima|Plaza|Centro histórico de Lima, declarada Patrimonio de la Humanidad por la UNESCO en 1988.|building_plaza
+5|Basílica de Santo Domingo|Iglesia|Templo católico que alberga los restos de Santa Rosa de Lima y San Martín de Porres.|building_basilica
+6|Casa de Aliaga|Casa Colonial|La casa colonial más antigua de América en uso continuo, construida en 1535.|building_house
+7|Museo Larco|Museo|Museo privado de arte precolombino ubicado en una mansión virreinal del siglo XVIII.|building_museum
+8|Palacio Torre Tagle|Palacio|Obra maestra de la arquitectura colonial limeña, actualmente sede del Ministerio de Relaciones Exteriores.|building_torre

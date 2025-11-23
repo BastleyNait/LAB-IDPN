@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Edificaciones Históricas</string>
+    <string name="search_hint">Buscar edificaciones...</string>
+    <string name="search_icon">Icono de búsqueda</string>
+    <string name="building_image">Imagen de edificación</string>
+</resources>
